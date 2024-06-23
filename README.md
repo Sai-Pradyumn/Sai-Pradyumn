@@ -59,6 +59,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sai-Pradyumn" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sai-Pradyumn&theme=dark" alt="GitHub Streak" /></a>
 
 ###
